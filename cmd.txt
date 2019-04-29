@@ -1,0 +1,8 @@
+abir programa cmd
+
+cerrar exit
+comandos git
+configurar git config
+cofiguraciones global git --global
+borrar todo cls
+git clone
